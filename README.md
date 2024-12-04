@@ -40,6 +40,8 @@ Contributions
 5. I am going to be honest I really only can think of these four contributions. I wish I would have dug deeper into this project but the day we got split into teams I was actually absent because my car broke down. I feel like I would have done more if I got in a group that interested me or a group I had more knowledge on the end goal. Either way I feel like my team card page is good work for the project to show off the wonderful classmates and the hard work they put into this product.
 
 
+--------------------------
+* Pictures of the team card (code & interface)
 ![image](https://github.com/user-attachments/assets/b220bcf3-1b32-4da4-b539-562ca5824fd6)
 ![image](https://github.com/user-attachments/assets/6b91677e-a28a-4406-b289-901151ac839e)
 ![image](https://github.com/user-attachments/assets/72d03276-8137-4e04-bf30-68379f4af6b1)
