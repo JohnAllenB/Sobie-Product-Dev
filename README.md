@@ -10,21 +10,30 @@ Contributions
 
 - Created Issue 92 w/ new branch
 - Gathered the Github profile homepages of the classmates (Dev Team)
-- worked with README team to collaborate what information they will provide in wiki
+- worked with Scrum team to collaborate what information they will provide in wiki
 - Created an outside repo to work on html/css - https://github.com/JohnAllenB/sobie-dev-credits
 - Copied over my style sheet into public/styles and html into sobie-team.ejs
 - Adjusted sobie-footer href link to read sobie-team.ejs
 - Adjusted app.js to read from /sobie-team
 - Still need to push to main
 
--------------------
+-------------------------
+2. Cordanation with Scrum team
+* https://github.com/barrycumbie/sobieconference.org/wiki/Meet-the-Team
 
-3. Cordanation with README team
-4. Issue cards to generate ideas of changes we can make
-5. 
-
-
+* This contribution included Nesia and me working together to see how we want to link the dev team to SOBIE. We ended up decdiing to keep the page I had created and intergrate it into the webpage and them to make a wiki with more links and still a full list of names of who wanted to be credited.
 
 --------------------------
-Issue 92 - https://github.com/barrycumbie/sobieconference.org/issues/92 
+3. Issue cards to generate ideas of changes we can make
+* https://github.com/barrycumbie/sobieconference.org/issues/35
+* https://github.com/barrycumbie/sobieconference.org/issues/24
+* https://github.com/barrycumbie/sobieconference.org/issues/80
+* https://github.com/barrycumbie/sobieconference.org/issues/92
+
 --------------------------
+4. 
+
+
+
+
+
