@@ -17,6 +17,8 @@ Contributions
 - Adjusted app.js to read from /sobie-team
 - Still need to push to main
 
+* Pictures are attached to the bottom of this README to show progress of the dev team card and how the program was incorporated into the main branch.
+
 -------------------------
 2. Cordanation with Scrum team
 * https://github.com/barrycumbie/sobieconference.org/wiki/Meet-the-Team
@@ -31,7 +33,18 @@ Contributions
 * https://github.com/barrycumbie/sobieconference.org/issues/92
 
 --------------------------
-4. 
+4. Infrastructure Team
+* My time on this team was short lived because we split from teams two days into me being placed into the team. While on the team I learned what Johnny and Levon were trying to achieve connecting the frontend to backend. They really had a good grib on what they wanted so I just took task as they were given to me. I helped Johnny get database access and troubleshot a backend render the team used.
+
+--------------------------
+5. I am going to be honest I really only can think of these four contributions. I wish I would have dug deeper into this project but the day we got split into teams I was actually absent because my car broke down. I feel like I would have done more if I got in a group that interested me or a group I had more knowledge on the end goal. Either way I feel like my team card page is good work for the project to show off the wonderful classmates and the hard work they put into this product.
+
+
+![image](https://github.com/user-attachments/assets/b220bcf3-1b32-4da4-b539-562ca5824fd6)
+![image](https://github.com/user-attachments/assets/6b91677e-a28a-4406-b289-901151ac839e)
+![image](https://github.com/user-attachments/assets/72d03276-8137-4e04-bf30-68379f4af6b1)
+![image](https://github.com/user-attachments/assets/6711bbde-cda8-41c8-af83-de8175ea1e00)
+
 
 
 
