@@ -34,7 +34,9 @@ Contributions
 
 --------------------------
 4. Infrastructure Team
-* My time on this team was short lived because we split from teams two days into me being placed into the team. While on the team I learned what Johnny and Levon were trying to achieve connecting the frontend to backend. They really had a good grib on what they wanted so I just took task as they were given to me. I helped Johnny get database access and troubleshot a backend render the team used.
+* My time on this team was short lived because we split from teams two days into me being placed into the team. While on the team I learned what Johnny and Levon were trying to achieve connecting the frontend to backend. They really had a good grib on what they wanted so I just took task as they were given to me. I helped Johnny get database access by approaching the datebase team to get his account. I also generated a backend render the team used to test connections between front and backends.
+
+* https://github.com/barrycumbie/sobieconference.org/issues/58
 
 --------------------------
 5. I am going to be honest I really only can think of these four contributions. I wish I would have dug deeper into this project but the day we got split into teams I was actually absent because my car broke down. I feel like I would have done more if I got in a group that interested me or a group I had more knowledge on the end goal. Either way I feel like my team card page is good work for the project to show off the wonderful classmates and the hard work they put into this product.
