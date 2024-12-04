@@ -20,10 +20,10 @@ Contributions
 * Pictures are attached to the bottom of this README to show progress of the dev team card and how the program was incorporated into the main branch.
 
 -------------------------
-2. Cordanation with Scrum team
+2. Co0rdination with Scrum team
 * https://github.com/barrycumbie/sobieconference.org/wiki/Meet-the-Team
 
-* This contribution included Nesia and me working together to see how we want to link the dev team to SOBIE. We ended up decdiing to keep the page I had created and intergrate it into the webpage and them to make a wiki with more links and still a full list of names of who wanted to be credited.
+* This contribution included Nesia and myself working together to see how we want to link the dev team to SOBIE. We ended up decdiing to keep the page I had created and intergrate it into the webpage and them to make a wiki with more links and still a full list of names of who wanted to be credited.
 
 --------------------------
 3. Infrastructure Team
